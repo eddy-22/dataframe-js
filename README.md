@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # dataframe-js
 
 ![](https://travis-ci.org/Gmousse/dataframe-js.svg?branch=develop)
